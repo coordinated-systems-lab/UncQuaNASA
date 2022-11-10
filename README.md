@@ -23,3 +23,5 @@ Please read the following to have some information about the data generation pro
    2. The data in the form of csv file is in the following directory: Data/noisyCase
    3. Initially, we are adding additive Gaussian noise to the mu_p (co-efficient of friction for pole) 
    4. Later on, we can perturb other parameters as well, like mu_c, etc. 
+
+## Models
