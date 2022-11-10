@@ -25,3 +25,17 @@ Please read the following to have some information about the data generation pro
    4. Later on, we can perturb other parameters as well, like mu_c, etc. 
 
 ## Models
+Some information about Models directory is given below:
+
+1. This directory contains code for different models we have tried so far. These include: SINDYc, Gaussian Processes (GP). 
+
+2. Model learned using different methods are saved in Models/learnedModels. Within that, there are multiple folders coresponding to    different models
+
+3. SINDYc did not give us good result and there will no saved learned models for it. 
+
+4. GP was implemented with GPy and GPyTorch. Both libraries gave good results with GPyTorch being really fast because it uses GPU.      The learned models are saved thereafter.
+
+## Results 
+Information about resuls  directory 
+
+1. Plots of some of the results generated are given in this directory. There are different sub-directories corresponding to            different models. 
