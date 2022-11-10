@@ -2,16 +2,14 @@
 Please read the following to have some information about the data generation process:
 
 1. The model is picked from this web page (https://sharpneat.sourceforge.io/research/cart-pole/cart-pole-equations.html). Please refer 
-   to Eqs. 19-F & 26-F. This page also has some references at the end (including books and papers) where you will find furthur information
-   about this cartpole model.
+   to Eqs. 19-F & 26-F. This page also has some references at the end (including books and papers) where you will find furthur            information about this cartpole model.
 
 2. There are three Input forcing functions. Two of those are commented out. The resulting time-series will look different depending on 
    force input function. 
 
 3. The columns in the csv file contains the following information in the same order:
    theta, theta_d, x, x_d, forceIn, theta_dd, x_dd
-   The first four columns are input features, but I am skipping 'x' since it does not show up anywhere in cartpole final equations. So, we
-   have four input features including forceIn and last two columns are desired outputs.  
+   The first four columns are input features, but I am skipping 'x' since it does not show up anywhere in cartpole final equations.      So, we have four input features including forceIn and last two columns are desired outputs.  
 
 4. At first, we generate deterministic data (no randomness)
 
