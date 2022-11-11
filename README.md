@@ -33,7 +33,7 @@ Some information about Models directory is given below:
 
 3. SINDYc did not give us good result and there will no saved learned models for it. 
 
-4. GP was implemented with GPy and GPyTorch. Both libraries gave good results with GPyTorch being really fast because it uses GPU.      The learned models are saved thereafter.
+4. GP was implemented with GPy and GPyTorch. Both libraries gave good results with GPyTorch being really fast because it uses GPU.      But the resuls of GPy are more reliable. With GPyTorch, you have to do a lot of manual tuning to get good results. The learned      models are saved.
 
 ## Results 
 Information about resuls  directory 
