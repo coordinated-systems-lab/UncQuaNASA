@@ -1,0 +1,13 @@
+*.Rhistory filter=lfs diff=lfs merge=lfs -text
+*.ipynb filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.py filter=lfs diff=lfs merge=lfs -text
+*.npy filter=lfs diff=lfs merge=lfs -text
+*.002)Rank(1)Iter(2k)Train(8k)1 filter=lfs diff=lfs merge=lfs -text
+*.002)Rank(1)Iter(2k)Train(8k)ForceIn filter=lfs diff=lfs merge=lfs -text
+*.009 filter=lfs diff=lfs merge=lfs -text
+*.009Rank(1)2kTrain(8k) filter=lfs diff=lfs merge=lfs -text
+*.009Rank(1)5k filter=lfs diff=lfs merge=lfs -text
+*.009Rank2 filter=lfs diff=lfs merge=lfs -text
+*.md filter=lfs diff=lfs merge=lfs -text
