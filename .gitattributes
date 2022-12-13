@@ -14,3 +14,4 @@
 *.76116 filter=lfs diff=lfs merge=lfs -text
 *.mat filter=lfs diff=lfs merge=lfs -text
 *.001)Rank(1)Iter(2k)Train(8k)ForceIn filter=lfs diff=lfs merge=lfs -text
+*.77540 filter=lfs diff=lfs merge=lfs -text
